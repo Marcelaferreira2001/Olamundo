@@ -1,2 +1,2 @@
-# Olamundo
- primeiro repositorio do curso de git e github
+# Olá, mundo!
+Repositório criado durante um aula ao vivo
